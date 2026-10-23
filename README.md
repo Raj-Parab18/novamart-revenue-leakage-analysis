@@ -57,4 +57,5 @@ This project uses synthetic data for a fictional business. Flagged records repre
 
 - Add automated data-quality checks
 - Improve anomaly validation and reconciliation
-- Expand dashboard reporting and business recommendations
+- Expand dashboard reporting and business recommendations.
+- 
